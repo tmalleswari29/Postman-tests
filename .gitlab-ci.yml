@@ -1,1 +1,3 @@
-
+Postman_tests:
+-Scrpt: 
+- newman --version
